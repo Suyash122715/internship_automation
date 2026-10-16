@@ -1,0 +1,4 @@
+Alex Rivera
+Software Engineer
+Skills: Python, React
+Experience: Built scalable APIs

@@ -1,0 +1,4 @@
+Jordan Vance
+Computer Science Student | State University of Technology
+Skills: Python, FastAPI, Docker, SQL, Git
+Projects: Cloud Cache Engine built in Python and FastAPI.
